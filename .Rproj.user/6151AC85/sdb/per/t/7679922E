@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "a <- \"Hello world\"\nprint(a)\n\nv <- TRUE\nprint(class(v))\n\nv <- apple\napple <- c('red','green',\"yellow\")\nprint(apple)\nprint(class(apple))\n\nprint(2+3)\n\nprint(6/3)\n\nprint((3*8)/(2*3))\n\nprint(log(15))\n\nprint(sqrt(121))\n\nx = 5+95\nprint(x)\n\ns1=\"test\"\ns2 = \"rest\"\n\nprint(paste(s1, s2, sep = \" \"))\n\n#TO find length of string\na = nchar(s1)\nprint(paste(\"The length of string s1 is \",a))\n\n\nb = c(1.8,4.5)\nprint(class(b))\n\n\ne = vector(\"logical\", length = 5)\nprint(class(e))\n",
+    "created" : 1494912023871.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1943849567",
+    "id" : "7679922E",
+    "lastKnownWriteTime" : 1493970129,
+    "last_content_update" : 1493970129,
+    "path" : "~/LearnR/LearningBasics.R",
+    "project_path" : "LearningBasics.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
