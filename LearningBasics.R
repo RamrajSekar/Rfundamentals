@@ -38,3 +38,5 @@ print(class(b))
 
 e = vector("logical", length = 5)
 print(class(e))
+
+print(b+e)
