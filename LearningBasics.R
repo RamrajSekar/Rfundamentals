@@ -40,3 +40,7 @@ e = vector("logical", length = 5)
 print(class(e))
 
 print(b+e)
+
+print(paste("The length of b is ",length(b)))
+
+
